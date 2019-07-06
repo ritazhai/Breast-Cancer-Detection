@@ -4,6 +4,7 @@ Question: You belong to the data team at a local research hospital. You've been 
 2.	How would a physician use your product?
 3.	There is a non-zero cost in time and money to collect each feature about a given cell. How would you go about determining the most cost-effective method of detecting malignancy?
 
+The uploaded data file is processed for increasing the complexity of the data cleaning. You can directly use the original data(link below). This project is a very basic data science project. Good for the starter to play with. Suggestion: do some other data cleaning work; try logistic regression; fine-tune the model....
 
 The description of the data is here: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original) and the dataset is available here: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
 
